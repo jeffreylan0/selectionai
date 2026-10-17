@@ -28,7 +28,7 @@
     "@webext-core/fake-browser": "^2.0.1",
     "@wxt-dev/storage": "1.2.9",
     "jsdom": "^26.0.0",
-    "typescript": "^5.7.0",
+    "typescript": "^7.0.2",
     "vitest": "^5.0.2"
   }
 }
